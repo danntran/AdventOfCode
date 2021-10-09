@@ -47,3 +47,4 @@ for key in mydict:
     total += mydict[key]
     
 print(total)
+print()
