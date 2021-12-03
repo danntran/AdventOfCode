@@ -12,3 +12,17 @@ C:\Users\Admin\source\repos\AdventOfCode2021\Puzzle1\obj\Debug\netcoreapp3.1\Puz
 C:\Users\Admin\source\repos\AdventOfCode2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.dll
 C:\Users\Admin\source\repos\AdventOfCode2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.pdb
 C:\Users\Admin\source\repos\AdventOfCode2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\bin\Debug\netcoreapp3.1\Puzzle1.exe
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\bin\Debug\netcoreapp3.1\Puzzle1.deps.json
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\bin\Debug\netcoreapp3.1\Puzzle1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\bin\Debug\netcoreapp3.1\Puzzle1.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\bin\Debug\netcoreapp3.1\Puzzle1.dll
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\bin\Debug\netcoreapp3.1\Puzzle1.pdb
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.dll
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.pdb
+C:\Users\Admin\Documents\GitHub\AdventOfCode\2021\Puzzle1\obj\Debug\netcoreapp3.1\Puzzle1.genruntimeconfig.cache

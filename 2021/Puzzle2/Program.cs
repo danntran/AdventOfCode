@@ -75,7 +75,7 @@ namespace Puzzle2
             }
 
             Console.WriteLine("Part 2 - {0}", hor_pos * vert_pos);
-            Console.WriteLine("End of Program.");
+            Console.WriteLine("End of Program .");
         }
     }
 }

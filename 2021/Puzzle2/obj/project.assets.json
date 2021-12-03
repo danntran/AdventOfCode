@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AdventOfCode2021\\Puzzle2\\Puzzle2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\AdventOfCode\\2021\\Puzzle2\\Puzzle2.csproj",
       "projectName": "Puzzle2",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\AdventOfCode2021\\Puzzle2\\Puzzle2.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\AdventOfCode\\2021\\Puzzle2\\Puzzle2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\AdventOfCode2021\\Puzzle2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\AdventOfCode\\2021\\Puzzle2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
