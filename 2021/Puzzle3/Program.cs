@@ -156,7 +156,11 @@ namespace Puzzle2
                 }
             }
 
+
+
             Console.WriteLine("Part 2 - {0}, {1}, Answer={2}", gammaList[0], epsilonList[0], Convert.ToInt32(gammaList[0], 2)* Convert.ToInt32(epsilonList[0], 2));
+
+
             Console.WriteLine("End of Program .");
         }
     }
