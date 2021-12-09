@@ -1,26 +1,31 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "0f7d0fc0-cc0e-44d8-8101-4b4cafb6ead6": {
-      "ProjectGuid": "0f7d0fc0-cc0e-44d8-8101-4b4cafb6ead6",
-      "DisplayName": "Puzzle4",
+    "f9a81dbe-dd36-4c90-b54f-9e4f1c8667c5": {
+      "ProjectGuid": "f9a81dbe-dd36-4c90-b54f-9e4f1c8667c5",
+      "DisplayName": "Puzzle8",
       "ColorIndex": 0
-    },
-    "f81808c2-b737-4635-acd2-218bb69d5b7c": {
-      "ProjectGuid": "f81808c2-b737-4635-acd2-218bb69d5b7c",
-      "DisplayName": "Puzzle5",
-      "ColorIndex": 1
-    },
-    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
-      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
-      "DisplayName": "Miscellaneous Files",
-      "ColorIndex": -1
     },
     "cc1f4e8c-25fd-4e4b-bd0c-7838253079a3": {
       "ProjectGuid": "cc1f4e8c-25fd-4e4b-bd0c-7838253079a3",
       "DisplayName": "Puzzle3",
+      "ColorIndex": 1
+    },
+    "0f7d0fc0-cc0e-44d8-8101-4b4cafb6ead6": {
+      "ProjectGuid": "0f7d0fc0-cc0e-44d8-8101-4b4cafb6ead6",
+      "DisplayName": "Puzzle4",
       "ColorIndex": 2
+    },
+    "f81808c2-b737-4635-acd2-218bb69d5b7c": {
+      "ProjectGuid": "f81808c2-b737-4635-acd2-218bb69d5b7c",
+      "DisplayName": "Puzzle5",
+      "ColorIndex": 3
+    },
+    "caf0342e-ed56-41c9-8bcc-6177455772f0": {
+      "ProjectGuid": "caf0342e-ed56-41c9-8bcc-6177455772f0",
+      "DisplayName": "Puzzle6",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
