@@ -30,7 +30,27 @@
       "ProjectGuid": "a08a8a17-3eb9-402b-8f9b-61001f087ab2",
       "DisplayName": "Puzzle9",
       "ColorIndex": 5
+    },
+    "eca4276c-16d1-4a85-99fb-8e93e64225cd": {
+      "ProjectGuid": "eca4276c-16d1-4a85-99fb-8e93e64225cd",
+      "DisplayName": "Puzzle10",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "481b592f-5b69-403c-ad41-217eab11074f": {
+      "ProjectGuid": "481b592f-5b69-403c-ad41-217eab11074f",
+      "DisplayName": "Puzzle11",
+      "ColorIndex": 7
+    },
+    "e13fcfd4-7491-411c-ad95-d1f28ff57f29": {
+      "ProjectGuid": "e13fcfd4-7491-411c-ad95-d1f28ff57f29",
+      "DisplayName": "Puzzle9",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 9
 }
