@@ -50,7 +50,12 @@
       "ProjectGuid": "e13fcfd4-7491-411c-ad95-d1f28ff57f29",
       "DisplayName": "Puzzle9",
       "ColorIndex": 8
+    },
+    "32ce4218-663c-4e5d-a429-7cf0fae98b67": {
+      "ProjectGuid": "32ce4218-663c-4e5d-a429-7cf0fae98b67",
+      "DisplayName": "Puzzle13",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
